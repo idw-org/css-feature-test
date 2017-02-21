@@ -9,7 +9,7 @@ Given two arguments: 1) property and 2) value.  It returns the applicable css pr
 ### Basic Usage
 
 Requiring:
-```bash
+```js
 npm install @thisguychris/css-feature-test
 ```
 
