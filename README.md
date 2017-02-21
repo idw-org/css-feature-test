@@ -15,8 +15,8 @@ npm install @thisguychris/css-feature-test
 
 In your JS:
 ```javascript
-featureTest = require('@thisguychris/css-feature-test')
+var featureTest = require('@thisguychris/css-feature-test')
 
 // now you can use it for testing
-featureTest('postion', 'sticky')  // returns "position: sticky;" or the prefixed "position: -webkit-sticky;"  depending the browser
+featureTest('postion', 'sticky')  // returns "position: sticky;" or the prefixed version depending upon what browser.
 ```
