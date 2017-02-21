@@ -5,14 +5,16 @@
   "main": "lib/index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "babel src/index.js -o lib/index.js"
+    "build": "babel src/index.js -o lib/index.js",
+    "precommit": "prettier --write src/**/*.js"
   },
   "author": "Chris <thisguychriz@gmail.com> (https://github.com/thisguychris)",
   "license": "MIT",
   "dependencies": {},
   "devDependencies": {
     "babel-cli": "^6.23.0",
-    "babel-preset-env": "^1.1.8"
+    "babel-preset-env": "^1.1.8",
+    "husky": "^0.13.1",
+    "prettier": "^0.18.0"
   }
 }
-
