@@ -1,7 +1,7 @@
 # css-feature-test
 a convenience function to test css property.
 
-[![npm](https://img.shields.io/npm/v/@thisguchris/css-feature-test.svg?style=flat)](https://github.com/ayosdev/react-i18n-map/)
+[![npm](https://img.shields.io/npm/v/@thisguychris/css-feature-test.svg)](https://npm.im/@thisguychris/css-feature-test)
 
 ## Getting Started
 Given two arguments: 
