@@ -4,7 +4,11 @@ a convenience function to test css property.
 [![npm](https://img.shields.io/npm/v/@thisguchris/css-feature-test.svg?style=flat)](https://github.com/ayosdev/react-i18n-map/)
 
 ## Getting Started
-Given two arguments: 1) property and 2) value.  It returns the applicable css property.
+Given two arguments: 
+1) property 
+2) value
+
+It returns the applicable css property.
 
 ### Basic Usage
 
