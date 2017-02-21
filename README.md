@@ -5,8 +5,9 @@ a convenience function to test css property.
 
 ## Getting Started
 Given two arguments: 
-1) property 
-2) value
+
+1. property 
+2. value
 
 It returns the applicable css property.
 
